@@ -1,0 +1,96 @@
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+# Maven build output
+target/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+
+HELP.md
+target/
+build/
+
+# Keep Maven wrapper files
+# Do not ignore .mvn/wrapper/maven-wrapper.jar
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE files
+.apt_generated/
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache/
+.idea/
+*.iws
+*.iml
+*.ipr
+.vscode/
+
+# NetBeans
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Logs
+*.log
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
